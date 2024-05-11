@@ -25,3 +25,24 @@ position in multiple point clouds and wayfinding.
 The aim of the ARNAV project 
 is to improve the user experience and interaction, support 
 exploration and navigation in the college environment. 
+
+# Work - Flow
+
+![Untitled (2) (1)](https://github.com/Caspian4/ARNav/assets/124158194/c110562b-d870-41c2-ac13-3af3fdbecdad)
+
+# Working Model
+
+The working model is an android application made through 
+Unity. It had 3 panels for: path visualization switching and 
+line visibility , debug option to change the height of the path 
+indicator and change floor option. 
+
+![a](https://github.com/Caspian4/ARNav/assets/124158194/fafdc737-b0ec-4e9a-b539-e19a0d331a5d)
+
+ARNAV utilizes 3-D space recognition techniques, which 
+eliminates the need for physical markers and offers greater 
+flexibility. We created a 3D model from the college 
+campus layout, by integrating AR technology, users will be 
+able to choose their destination and our application so that the 
+navigation experience becomes more immersive and 
+interesting.
